@@ -1,1 +1,13 @@
-# HeartFailure_Mortality_Prediction
+# Emergency Department Mortality Prediction in Patients w/ Heart Failure
+
+## Context
+
+Heart failure, also known as congestive heart failure, is a condition that develops when your heart doesn’t pump enough blood for your body’s needs. This can happen if your heart can’t fill up with enough blood. It can also happen when your heart is too weak to pump properly. It can occur at any age, but is most common in older people. Heart failure is a long-term condition that tends to get gradually worse over time. It cannot usually be cured, but the symptoms can often be controlled for many years with treatment such as healthy lifestyle changes, medicines, some devices, and procedures.
+
+The burden of heart failure (HF) in the United States is considerable. In 2012, total costs for HF were estimated to be 30.7 billion dolars, with two-thirds attributed to direct medical costs. Without improvements to the cost of care by the year 2030, costs are predicted to reach 69.8 billion dolars (127% increase). This equates to approximately $244 for each US adult. This projected increase is due to an aging population and epidemiologic factors such as obesity, hypertension, diabetes mellitus, and coronary artery disease. In addition to the overall rise in number of HF cases, the complexity of the disease appears to be increasing as more comorbidities generally lead to more clinical events and hospitalizations for both HF and other causes.
+
+Incidence of HF increases with age and is associated with poor mortality, as older adults diagnosed with HF have a 5-year mortality approaching 50%. In 2014, HF was the primary cause of 1.1 million emergency department (ED) visits, 1 million hospitalizations, and 84,000 deaths. HF was a comorbidity or contributing cause in an additional 4.1 million ED visits, 3.4 million hospitalizations, and 231,000 deaths and was associated with significantly higher costs compared with patients without HF as a listed comorbidity. In 2014, the estimated mean cost of HF hospitalizations was 11,552 dolars, with a total estimated cost of more than 11 billion dolars. Although HF greatly affects older adults, the costs are also significant when treating HF comorbidities and HF exacerbations in younger populations, totaling $1 billion in inpatient costs, which may be rising.
+
+## Objective
+
+**In the Emergency Department (ED), the decisions need to be fast and with a restricted information. Unfortunately, some ED are full of pacients, and there isn't sufficient staff to reavaliate them. Is there a way to signalize the righ risk pacients of death, so they can be evaluate more frequently ??**
